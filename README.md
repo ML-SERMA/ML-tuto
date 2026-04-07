@@ -6,6 +6,8 @@
 
 **Nomenclature :** **X** pour les entrées (*inputs*), **Y** pour les sorties (*outputs*).
 
+[Nootbook tuto qui met en œuvre ce mémo](ml_intro.ipynb)
+
 ---
 
 ### Méthodologie classique en ML
